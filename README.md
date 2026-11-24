@@ -83,3 +83,22 @@ streamlit run app.py
 ## Possible next steps
 Gradient-boosted model with prediction intervals, per-product hyperparameter tuning,
 holiday and promotion features, and a model-monitoring view of forecast error over time.
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/overview.png)
+
+### Sales Analytics
+![Sales Analytics](screenshots/sales.png)
+
+### Product Intelligence
+![Product Intelligence](screenshots/products.png)
+
+### Inventory Planning
+![Inventory Planning](screenshots/inventory.png)
+
+### Demand Forecasting
+![Demand Forecasting](screenshots/forecasting.png)
+
+### Data and Methodology
+![Data and Methodology](screenshots/methodology.png)
